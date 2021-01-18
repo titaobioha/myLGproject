@@ -1,0 +1,10 @@
+ConnellyRapids down=SummerMall
+PredovicPark up=LewisFalls right=SydnieManor
+QuigleyPrairie up=ReedLights right=HilllTunnel
+BatzPort up=WymanViews right=AustynSpurs left=RandallExtension down=FavianPrairie
+DustyViaduct up=DorcasPrairie right=CroninVille
+HalvorsonLand right=UllrichHill
+SchmelerWays up=RaquelParks right=LegrosLights
+OletaDrive up=AntonettaLocks right=LethaHill
+EsperanzaInlet up=HarveyStreet right=KubForges down=HandWalks
+ArturoCourse up=LednerStreet right=ArelyTurnpike left=MosciskiBrooks down=JerrellSummit
